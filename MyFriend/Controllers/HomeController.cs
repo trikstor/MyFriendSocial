@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
-using System.Web.Mvc.Ajax;
 using System.Data.SQLite;
+using System.Web.Mvc;
 
 namespace MyFriend.Controllers
 {
@@ -18,15 +14,21 @@ namespace MyFriend.Controllers
         [HttpPost]
         public ActionResult Index(string username, string actualPassword)
         {
-            if(!new User().TryAuth(username, actualPassword))
+            if (new Users().TryAuth(username, actualPassword))
+            {
+                Session["username"] = username;
+                ViewBag.Message = "Вы успешно вошли в систему.";
+            }
+            else
                 ViewBag.Message = "Неверный логин или пароль.";
+
             return View();
         }
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
-
+            ViewBag.Message = Session["username"].ToString();
+            
             return View();
         }
 

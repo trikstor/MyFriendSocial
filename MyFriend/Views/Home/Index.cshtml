@@ -2,12 +2,18 @@
   ViewBag.Title = "Home Page";
 }
 
-@using(Html.BeginForm("Index", "Home", FormMethod.Post))
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
 {
-  <p>Введите имя пользователя: </p>
-  @Html.TextBox("Username")
-  <p>Введите пароль :</p>
-  @Html.Password("Password")
-  <p><input type="submit" value="Войти" /></p>
+  <div class="central-form">
+    <center>
+      <p>Введите имя пользователя: </p>
+      @Html.TextBox("Username")
+      <p>Введите пароль :</p>
+      @Html.Password("Password")
+      <p>
+        <input type="submit" value="Войти"/>
+      </p>
+    </center>
+  </div>
 }
 <h3>@ViewBag.Message</h3>

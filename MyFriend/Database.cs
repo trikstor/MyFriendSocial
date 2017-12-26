@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.SQLite;
+using System.Linq;
 
 namespace MyFriend
 {
@@ -10,7 +11,7 @@ namespace MyFriend
 
         public Database Connect(string databaseName)
         {
-            connection = new SQLiteConnection($"Data Source={AppDomain.CurrentDomain.BaseDirectory}{databaseName}");
+            connection = new SQLiteConnection($"Data Source={AppDomain.CurrentDomain.BaseDirectory}{databaseName};Version=3;");
             return this;
         }
 
@@ -29,6 +30,13 @@ namespace MyFriend
             connection.Close();
         }
         
+        public IEnumerable<SQLiteDataReader[]> Select(string[] requests)
+        {
+            return requests
+                .Select(request => Select(request)
+                .ToArray());
+        }
+        
         public bool TryExecuteCmd(string request)
         {
             using (var cmd = new SQLiteCommand(request))
@@ -37,7 +45,7 @@ namespace MyFriend
                 {
                     cmd.ExecuteNonQuery();
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     connection.Close();
                     return false;
@@ -47,6 +55,11 @@ namespace MyFriend
             return true;
         }
 
+        public bool CheckEquality(string request, string expected)
+        {
+            return Select(request).First().ToString() == expected;
+        }
+        
         public void ConnectionClose()
         {
             connection.Close();

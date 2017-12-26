@@ -137,8 +137,7 @@
     <Compile Include="Database.cs" />
     <Compile Include="Global.asax.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SessionExtensions.cs" />
-    <Compile Include="User.cs" />
+    <Compile Include="Users.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
