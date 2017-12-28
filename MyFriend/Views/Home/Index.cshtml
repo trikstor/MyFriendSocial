@@ -4,16 +4,27 @@
 
 @using (Html.BeginForm("Index", "Home", FormMethod.Post))
 {
-  <div class="central-form">
-    <center>
-      <p>Введите имя пользователя: </p>
-      @Html.TextBox("Username")
-      <p>Введите пароль :</p>
-      @Html.Password("Password")
-      <p>
-        <input type="submit" value="Войти"/>
-      </p>
-    </center>
-  </div>
+  <br/>
+  <form>
+    <div class="alert alert-dark" role="alert">
+      <div class="form-group">
+        <center>
+          <label>Your username: </label>
+          @Html.TextBox("username")
+          <br/>
+          <label> Your password :</label>
+          @Html.Password("password")
+          <br/>
+          <p>
+            <button type="submit" class="btn btn-primary">Sign in</button>
+          </p>
+          <br/>
+          <h4>
+            @Html.ActionLink("or sign up", "Register", "Home")
+          </h4>
+        </center>
+      </div>
+    </div>
+  </form>
 }
 <h3>@ViewBag.Message</h3>

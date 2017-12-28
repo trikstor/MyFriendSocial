@@ -1,0 +1,30 @@
+@{
+    ViewBag.Title = "Sign up";
+}
+
+@using (Html.BeginForm("Register", "Home", FormMethod.Post))
+{
+    <br/>
+    <form>
+        <div class="alert alert-dark" role="alert">
+            <div class="form-group">
+                <center>
+                    <label>Username: </label>
+                    @Html.TextBox("username")
+                    <br/>
+                    <label>Password :</label>
+                    @Html.Password("password")
+                    <br/>
+                    <label>Email address :</label>
+                    @Html.TextBox("email")
+                    <br/>
+                    <p>
+                        <button type="submit" class="btn btn-primary">Sign in</button>
+                    </p>
+                    <br/>
+                </center>
+            </div>
+        </div>
+    </form>
+}
+<h3>@ViewBag.Message</h3>

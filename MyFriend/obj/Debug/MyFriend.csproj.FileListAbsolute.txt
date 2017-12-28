@@ -155,3 +155,13 @@ C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\Microsoft.Net.Http.Heade
 C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\System.Buffers.xml
 C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\System.Text.Encodings.Web.xml
+C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\FluentAssertions.Core.dll
+C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\FluentAssertions.dll
+C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\nunit.framework.dll
+C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\FluentAssertions.pdb
+C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\FluentAssertions.xml
+C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\FluentAssertions.Core.pdb
+C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\FluentAssertions.Core.xml
+C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\nunit.framework.xml
+C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\EmailValidation.dll
+C:\Users\Антон\RiderProjects\MyFriend\MyFriend\bin\EmailValidation.xml
