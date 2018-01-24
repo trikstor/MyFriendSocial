@@ -1,0 +1,106 @@
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\VkModule.exe.config
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\VkModule.exe
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\VkModule.pdb
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\AngleSharp.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.AppContext.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.Console.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.IO.Compression.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.Net.Http.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.Net.Sockets.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\VkNet.UWP.dll
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\AngleSharp.xml
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Acer\source\repos\VkModule\VkModule\bin\Debug\VkNet.UWP.xml
+C:\Users\Acer\source\repos\VkModule\VkModule\obj\Debug\VkModule.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\VkModule\VkModule\obj\Debug\VkModule.exe
+C:\Users\Acer\source\repos\VkModule\VkModule\obj\Debug\VkModule.pdb
+C:\Users\Acer\source\repos\VkModule\VkModule\obj\Debug\VkModule.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Saved Games\Desktop\VkModule\bin\Debug\VkModule.exe.config
+C:\Users\Acer\Saved Games\Desktop\VkModule\bin\Debug\VkModule.exe
+C:\Users\Acer\Saved Games\Desktop\VkModule\bin\Debug\VkModule.pdb
+C:\Users\Acer\Saved Games\Desktop\VkModule\bin\Debug\System.IO.Compression.dll
+C:\Users\Acer\Saved Games\Desktop\VkModule\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Acer\Saved Games\Desktop\VkModule\bin\Debug\AngleSharp.xml
+C:\Users\Acer\Saved Games\Desktop\VkModule\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Acer\Saved Games\Desktop\VkModule\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Saved Games\Desktop\VkModule\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Acer\Saved Games\Desktop\VkModule\bin\Debug\VkNet.UWP.xml
+C:\Users\Acer\Saved Games\Desktop\VkModule\obj\Debug\VkModule.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Saved Games\Desktop\VkModule\obj\Debug\VkModule.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Saved Games\Desktop\VkModule\obj\Debug\VkModule.exe
+C:\Users\Acer\Saved Games\Desktop\VkModule\obj\Debug\VkModule.pdb
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\VkModule\bin\Debug\VkModule.dll.config
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\VkModule\bin\Debug\VkModule.dll
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\VkModule\bin\Debug\VkModule.pdb
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\VkModule\bin\Debug\AngleSharp.xml
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\VkModule\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\VkModule\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\VkModule\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\VkModule\bin\Debug\VkNet.UWP.xml
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\VkModule\obj\Debug\VkModule.csprojResolveAssemblyReference.cache
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\VkModule\obj\Debug\VkModule.csproj.CoreCompileInputs.cache
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\VkModule\obj\Debug\VkModule.dll
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\VkModule\obj\Debug\VkModule.pdb
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\bin\Debug\VkModule.dll.config
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\bin\Debug\VkModule.dll
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\bin\Debug\VkModule.pdb
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\bin\Debug\System.IO.Compression.dll
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\bin\Debug\AngleSharp.xml
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\bin\Debug\VkNet.UWP.xml
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\obj\Debug\VkModule.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\obj\Debug\VkModule.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\obj\Debug\VkModule.dll
+C:\Users\Антон\Desktop\InterestsAnalysisVK\VkModule\obj\Debug\VkModule.pdb
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\VkModule.dll.config
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\VkModule.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\VkModule.pdb
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\AngleSharp.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.AppContext.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.Console.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.IO.Compression.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.Net.Http.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.Net.Sockets.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\VkNet.UWP.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\AngleSharp.xml
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\bin\Debug\VkNet.UWP.xml
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\obj\Debug\VkModule.csprojResolveAssemblyReference.cache
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\obj\Debug\VkModule.csproj.CoreCompileInputs.cache
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\obj\Debug\VkModule.dll
+C:\Users\Антон\RiderProjects\MyFriend\VkModule\obj\Debug\VkModule.pdb
